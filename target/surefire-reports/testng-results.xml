@@ -2,60 +2,60 @@
 <testng-results skipped="0" failed="2" ignored="0" total="7" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="8850" started-at="2019-08-25T06:35:19Z" finished-at="2019-08-25T06:35:27Z">
+  <suite name="Suite" duration-ms="11607" started-at="2019-08-25T07:09:39Z" finished-at="2019-08-25T07:09:51Z">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="2460" started-at="2019-08-25T06:35:19Z" finished-at="2019-08-25T06:35:21Z">
+    <test name="Test1" duration-ms="3670" started-at="2019-08-25T07:09:39Z" finished-at="2019-08-25T07:09:43Z">
       <class name="Page_Test.Login_Test">
-        <test-method status="PASS" signature="check_title()[pri:0, instance:Page_Test.Login_Test@1cd072a9]" name="check_title" duration-ms="10" started-at="2019-08-25T12:05:19Z" finished-at="2019-08-25T12:05:19Z">
+        <test-method status="PASS" signature="check_title()[pri:0, instance:Page_Test.Login_Test@1cd072a9]" name="check_title" duration-ms="57" started-at="2019-08-25T12:39:39Z" finished-at="2019-08-25T12:39:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- check_title -->
-        <test-method status="PASS" signature="tested()[pri:0, instance:Page_Test.Login_Test@1cd072a9]" name="tested" is-config="true" duration-ms="579" started-at="2019-08-25T12:05:19Z" finished-at="2019-08-25T12:05:19Z">
+        <test-method status="PASS" signature="tested()[pri:0, instance:Page_Test.Login_Test@1cd072a9]" name="tested" is-config="true" duration-ms="1150" started-at="2019-08-25T12:39:39Z" finished-at="2019-08-25T12:39:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tested -->
-        <test-method status="PASS" signature="click_to_sign()[pri:0, instance:Page_Test.Login_Test@1cd072a9]" name="click_to_sign" duration-ms="1541" started-at="2019-08-25T12:05:19Z" finished-at="2019-08-25T12:05:21Z">
+        <test-method status="PASS" signature="click_to_sign()[pri:0, instance:Page_Test.Login_Test@1cd072a9]" name="click_to_sign" duration-ms="1460" started-at="2019-08-25T12:39:40Z" finished-at="2019-08-25T12:39:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- click_to_sign -->
-        <test-method status="PASS" signature="tested()[pri:0, instance:Page_Test.Login_Test@1cd072a9]" name="tested" is-config="true" duration-ms="145" started-at="2019-08-25T12:05:21Z" finished-at="2019-08-25T12:05:21Z">
+        <test-method status="PASS" signature="tested()[pri:0, instance:Page_Test.Login_Test@1cd072a9]" name="tested" is-config="true" duration-ms="412" started-at="2019-08-25T12:39:42Z" finished-at="2019-08-25T12:39:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tested -->
-        <test-method status="PASS" signature="enter_email()[pri:0, instance:Page_Test.Login_Test@1cd072a9]" name="enter_email" duration-ms="55" started-at="2019-08-25T12:05:21Z" finished-at="2019-08-25T12:05:21Z">
+        <test-method status="PASS" signature="enter_email()[pri:0, instance:Page_Test.Login_Test@1cd072a9]" name="enter_email" duration-ms="166" started-at="2019-08-25T12:39:42Z" finished-at="2019-08-25T12:39:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- enter_email -->
-        <test-method status="PASS" signature="tested()[pri:0, instance:Page_Test.Login_Test@1cd072a9]" name="tested" is-config="true" duration-ms="110" started-at="2019-08-25T12:05:21Z" finished-at="2019-08-25T12:05:21Z">
+        <test-method status="PASS" signature="tested()[pri:0, instance:Page_Test.Login_Test@1cd072a9]" name="tested" is-config="true" duration-ms="384" started-at="2019-08-25T12:39:42Z" finished-at="2019-08-25T12:39:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tested -->
       </class> <!-- Page_Test.Login_Test -->
     </test> <!-- Test1 -->
-    <test name="Test2" duration-ms="6352" started-at="2019-08-25T06:35:21Z" finished-at="2019-08-25T06:35:27Z">
+    <test name="Test2" duration-ms="7896" started-at="2019-08-25T07:09:43Z" finished-at="2019-08-25T07:09:51Z">
       <class name="Page_Test.Home_Test">
-        <test-method status="PASS" signature="brower_set()[pri:0, instance:Page_Test.Home_Test@340f438e]" name="brower_set" is-config="true" duration-ms="18742" started-at="2019-08-25T12:05:00Z" finished-at="2019-08-25T12:05:19Z">
+        <test-method status="PASS" signature="brower_set()[pri:0, instance:Page_Test.Home_Test@340f438e]" name="brower_set" is-config="true" duration-ms="17686" started-at="2019-08-25T12:39:21Z" finished-at="2019-08-25T12:39:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- brower_set -->
-        <test-method status="PASS" signature="click_to_create()[pri:0, instance:Page_Test.Home_Test@340f438e]" name="click_to_create" duration-ms="735" started-at="2019-08-25T12:05:21Z" finished-at="2019-08-25T12:05:22Z">
+        <test-method status="PASS" signature="click_to_create()[pri:0, instance:Page_Test.Home_Test@340f438e]" name="click_to_create" duration-ms="990" started-at="2019-08-25T12:39:43Z" finished-at="2019-08-25T12:39:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- click_to_create -->
-        <test-method status="PASS" signature="tested()[pri:0, instance:Page_Test.Home_Test@340f438e]" name="tested" is-config="true" duration-ms="166" started-at="2019-08-25T12:05:22Z" finished-at="2019-08-25T12:05:22Z">
+        <test-method status="PASS" signature="tested()[pri:0, instance:Page_Test.Home_Test@340f438e]" name="tested" is-config="true" duration-ms="437" started-at="2019-08-25T12:39:44Z" finished-at="2019-08-25T12:39:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tested -->
-        <test-method status="PASS" signature="click_to_sign()[pri:0, instance:Page_Test.Home_Test@340f438e]" name="click_to_sign" duration-ms="100" started-at="2019-08-25T12:05:22Z" finished-at="2019-08-25T12:05:22Z">
+        <test-method status="PASS" signature="click_to_sign()[pri:0, instance:Page_Test.Home_Test@340f438e]" name="click_to_sign" duration-ms="227" started-at="2019-08-25T12:39:44Z" finished-at="2019-08-25T12:39:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- click_to_sign -->
-        <test-method status="PASS" signature="tested()[pri:0, instance:Page_Test.Home_Test@340f438e]" name="tested" is-config="true" duration-ms="91" started-at="2019-08-25T12:05:22Z" finished-at="2019-08-25T12:05:22Z">
+        <test-method status="PASS" signature="tested()[pri:0, instance:Page_Test.Home_Test@340f438e]" name="tested" is-config="true" duration-ms="377" started-at="2019-08-25T12:39:44Z" finished-at="2019-08-25T12:39:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tested -->
-        <test-method status="FAIL" signature="check_title()[pri:0, instance:Page_Test.Home_Test@340f438e]" name="check_title" duration-ms="5" started-at="2019-08-25T12:05:22Z" finished-at="2019-08-25T12:05:22Z">
+        <test-method status="FAIL" signature="check_title()[pri:0, instance:Page_Test.Home_Test@340f438e]" name="check_title" duration-ms="8" started-at="2019-08-25T12:39:45Z" finished-at="2019-08-25T12:39:45Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[Title do now match: Failed!!!!!!!!! expected [Yahoo India] but found [Yahoo]]]>
@@ -108,30 +108,32 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- check_title -->
-        <test-method status="PASS" signature="tested()[pri:0, instance:Page_Test.Home_Test@340f438e]" name="tested" is-config="true" duration-ms="101" started-at="2019-08-25T12:05:22Z" finished-at="2019-08-25T12:05:22Z">
+        <test-method status="PASS" signature="tested()[pri:0, instance:Page_Test.Home_Test@340f438e]" name="tested" is-config="true" duration-ms="396" started-at="2019-08-25T12:39:45Z" finished-at="2019-08-25T12:39:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tested -->
-        <test-method status="FAIL" signature="enter_email()[pri:0, instance:Page_Test.Home_Test@340f438e]" name="enter_email" duration-ms="5021" started-at="2019-08-25T12:05:22Z" finished-at="2019-08-25T12:05:27Z">
+        <test-method status="FAIL" signature="enter_email()[pri:0, instance:Page_Test.Home_Test@340f438e]" name="enter_email" duration-ms="5057" started-at="2019-08-25T12:39:45Z" finished-at="2019-08-25T12:39:50Z">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
-              <![CDATA[Unable to locate element: //*[@id='login-username']
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='login-username']"}
+  (Session info: chrome=76.0.3809.100)
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
 System info: host: 'II02-JWXVKC2', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_171'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 68.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190813150448, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 10104, moz:profile: C:\Users\dhruv_khandelwal\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.1, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 22bdaf82-46a3-4328-9edd-3fd70f86c56f
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\DHRUV_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57997}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3e303113930b04a0c52734e977f76638
 *** Element info: {Using=xpath, value=//*[@id='login-username']}]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: //*[@id='login-username']
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='login-username']"}
+  (Session info: chrome=76.0.3809.100)
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
 System info: host: 'II02-JWXVKC2', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_171'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 68.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190813150448, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 10104, moz:profile: C:\Users\dhruv_khandelwal\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.1, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 22bdaf82-46a3-4328-9edd-3fd70f86c56f
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\DHRUV_~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57997}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3e303113930b04a0c52734e977f76638
 *** Element info: {Using=xpath, value=//*[@id='login-username']}
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
@@ -192,11 +194,11 @@ Session ID: 22bdaf82-46a3-4328-9edd-3fd70f86c56f
           <reporter-output>
           </reporter-output>
         </test-method> <!-- enter_email -->
-        <test-method status="PASS" signature="tested()[pri:0, instance:Page_Test.Home_Test@340f438e]" name="tested" is-config="true" duration-ms="126" started-at="2019-08-25T12:05:27Z" finished-at="2019-08-25T12:05:27Z">
+        <test-method status="PASS" signature="tested()[pri:0, instance:Page_Test.Home_Test@340f438e]" name="tested" is-config="true" duration-ms="394" started-at="2019-08-25T12:39:50Z" finished-at="2019-08-25T12:39:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tested -->
-        <test-method status="PASS" signature="brower_close()[pri:0, instance:Page_Test.Home_Test@340f438e]" name="brower_close" is-config="true" duration-ms="2507" started-at="2019-08-25T12:05:27Z" finished-at="2019-08-25T12:05:30Z">
+        <test-method status="PASS" signature="brower_close()[pri:0, instance:Page_Test.Home_Test@340f438e]" name="brower_close" is-config="true" duration-ms="1108" started-at="2019-08-25T12:39:51Z" finished-at="2019-08-25T12:39:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- brower_close -->

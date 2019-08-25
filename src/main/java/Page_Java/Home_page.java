@@ -10,6 +10,7 @@ public class Home_page {
 	WebDriver driver;
 
 	// object of Login page
+	//page factory
 	@FindBy(xpath = "//*[@id='createacc']")
 	WebElement click_createaccount;
 

@@ -16,13 +16,13 @@ public class Browser_init {
 		String current = System.getProperty("user.dir");// give path of base directory
 		System.out.println(current);
 		if (Browser.equalsIgnoreCase("chrome")) {
-			System.setProperty("webdriver.gecko.driver", current + "\\Lib\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", current + "\\Lib\\chromedriver.exe");
 			driver = new ChromeDriver();
 		} else if (Browser.equalsIgnoreCase("IE")) {
 			System.setProperty("webdriver.gecko.driver", current + "\\Lib\\geckodriver.exe");
 			driver = new InternetExplorerDriver();
 		} else if (Browser.equalsIgnoreCase("firefox")) {
-			System.setProperty("webdriver.gecko.driver", current + "\\Lib\\geckodriver.exe");
+			System.setProperty("webdriver.ie.driver", current + "\\Lib\\geckodriver.exe");
 			driver = new FirefoxDriver();
 		}
 
